@@ -1,50 +1,33 @@
-Hey!
+# Hey!
 
 I'm Nico and I'm a Full Stack Developer.
 
+## 🔭 I’m currently working on:
 
-🔭 I’m currently working on:
+- HTML5
+- CSS
+- Javascript
+- React.js
+- Redux
+- Node.js
+- Express.js
+- Sequelize
+- PostgreSQL
+- Github
 
+## 🌱 I’m currently learning:
 
--HTML5 
+- [ ] Typescript
+- [ ] React Native
 
--CSS
+## 💬 Ask me about...
 
--Javascript
+- Anything!
 
--React.js
-
--Redux
-
--Node.js
-
--Express.js
-
--Sequelize
-
--PostgreSQL
-
--Github
-
-
-🌱 I’m currently learning:
-
-~Typescript
-
-~React Native
-
-
-
-💬 Ask me about...
-
--Anything!
-
-📫 How to reach me:
+## 📫 How to reach me:
 
 nicotanoira@gmail.com
 
-
-
-😄 Pronouns:
+## 😄 Pronouns:
 
 He/him
