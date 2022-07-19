@@ -1,6 +1,6 @@
 # Hey! I'm Nico and I'm a Full Stack Developer.
 
-<img algin='center' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300" />
+<img algin="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300" />
 
 ## 🔭 I’m currently working on:
 
