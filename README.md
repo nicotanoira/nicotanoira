@@ -2,7 +2,7 @@
 
 <img algin="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300" />
 
-## 🔭 I’m currently working on:
+## 💻 I’m currently working on:
 
 - HTML5
 - CSS
@@ -15,7 +15,7 @@
 - PostgreSQL
 - Github
 
-## 🌱 I’m currently learning:
+## ✍️ I’m currently learning:
 
 - [ ] Typescript
 - [ ] React Native
