@@ -10,9 +10,10 @@
 
 ###
 
-<img algin="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300" />
+ <img align="right" height="150" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=82a1493b3xqwslgylqkx3e8ulcz3rhsvejts17xbf70fs29u&rid=200w.gif&ct=g"  />
 
-## 💻 I’m currently working with:
+###
+<h2 align="left">💻 I’m currently working with:</h2> 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
