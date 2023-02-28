@@ -28,11 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
 </div>
 
-## ✍️ I’m currently learning:
-
-- [ ] Typescript
-- [ ] React Native
-
 ## 💬 Ask me about...
 
 - Anything!
